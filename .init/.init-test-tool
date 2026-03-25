@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/oee-production-authentication-system-140-149/frontend_auth_system"
+}
